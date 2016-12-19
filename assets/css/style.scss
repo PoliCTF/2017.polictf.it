@@ -1,0 +1,53 @@
+---
+---
+
+@import 'jekyll-theme-hacker';
+
+.brace-yourself {
+	text-align: center;
+	margin: 1em;
+	margin-bottom: 2em;
+}
+
+.brace-yourself .head-up {
+	color: #9abbff;
+	font-size: 2.2em;
+}
+
+.brace-yourself .head-down {
+	font-size: 1.6em;
+}
+
+.footer {
+	border-top: 1px dashed #9abbff;
+	margin-top: 2em;
+	padding-top: 2em;
+	font-size: 0.83em;
+}
+
+.brace-yourself .logo {
+	padding-top:1.6em;
+	padding-bottom:2em;
+	width: 130px;
+}
+
+.main-content {
+	margin-bottom: 1.2em;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 130px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 130px;
+}
