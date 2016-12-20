@@ -18,7 +18,8 @@ layout: default
 <div class="archive">
   <h3>Archive</h3>
   <ul>
-    <li><a href="http://2015.polictf.it">PoliCTF 2015</a></li>
-    <li>PoliCTF 2012</li>
+    {% for el in site.data.archive %}
+    <li>{% if el.url %}<a href="{{ el.url }}">{% endif %}{{ el.name }}{% if el.url %}</a>{% endif %}</li>
+    {% endfor %}
   </ul>
 </div>

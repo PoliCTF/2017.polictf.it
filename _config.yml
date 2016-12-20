@@ -17,8 +17,17 @@ title: PoliCTF
 email: info@polictf.it
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: polictf
-github_username:  polictf
+
+contacts:
+    - icon: twitter
+      name: towerofhanoi
+      url: https://twitter.com/towerofhanoi
+    - icon: github
+      name: polictf
+      url: https://github.com/polictf
+    - icon: envelope
+      name: info@polictf.it
+      url: mailto:info@polictf.it
 
 # Build settings
 markdown: kramdown

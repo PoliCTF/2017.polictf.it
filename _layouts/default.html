@@ -36,7 +36,9 @@
     <footer class="footer">
         <div class="container text-muted">
             <p>Competition organized by <a href="http://toh.necst.it">Tower of Hanoi</a> and the <a href="http://www.necst.it">NECST</a> research lab</p>
-            <p><i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/towerofhanoi">@towerofhanoi</a> - <i class="fa fa-github" aria-hidden="true"></i> <a href="https://github.com/polictf">polictf</a> - <i class="fa fa-envelope" aria-hidden="true"></i> info@polictf.it</p>
+            <p>{% for s in site.contacts %}
+            <i class="fa fa-{{s.icon}}" aria-hidden="true"></i> <a href="{{s.url}}">{{s.name}}</a>{% if forloop.last == false %}&nbsp;&bull; {% endif %}
+            {% endfor %}</p>
             <p>Theme '<a href="https://github.com/pages-themes/hacker">Hacker</a>', customized by Tower of Hanoi</p>
         </div>
     </footer>
