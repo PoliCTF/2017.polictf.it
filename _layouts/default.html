@@ -13,6 +13,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/font-awesome.min.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% if page.prefooter == true %}
+    <link rel="stylesheet" href="{{ '/assets/css/prefooter.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% endif %}
     <title>{{ site.title }}{% if page.title %} | {{ page.title }} {% endif %}</title>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

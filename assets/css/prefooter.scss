@@ -1,0 +1,33 @@
+---
+---
+
+@import "vars";
+
+#prefooter {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.1);
+	border-top: 1px dashed $highlight-color;
+	position: absolute;
+	bottom: $footer-height;
+	margin-bottom: 0;
+}
+
+@media(max-width: 767px) {
+	#prefooter {
+		height: 175px;
+	}
+    body {
+        margin-bottom: $footer-height + 175px;
+    }
+}
+
+@media(min-width: 768px) {
+	#prefooter {
+		height: 144px;
+	}
+    body {
+        margin-bottom: $footer-height + 144px;
+    }
+}

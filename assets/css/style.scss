@@ -49,15 +49,15 @@
 
 .footer {
 	border-top: 1px dashed $highlight-color;
-	margin-top: 2em;
-	padding-top: 2em;
+	margin-top: 20px;
+	padding-top: 20px;
 	font-size: 0.83em;
 }
 
 .brace-yourself .logo {
 	padding-top:1.6em;
 	padding-bottom:2em;
-	width: 130px;
+	width: $footer-height;
 }
 
 .main-content {
@@ -71,15 +71,7 @@ html {
 
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 130px;
-}
-
-#prefooter {
-	padding-top: 1.5em;
-	padding-bottom: 1.5em;
-	width: 100%;
-	background: rgba(0, 0, 0, 0.1);
-	border-top: 1px dashed $highlight-color;
+  margin-bottom: $footer-height;
 }
 
 .footer {
@@ -87,7 +79,7 @@ body {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 130px;
+  height: $footer-height;
 }
 
 .sponsors-text {
