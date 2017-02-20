@@ -14,6 +14,10 @@
 	margin-bottom: 0;
 }
 
+#prefooter p {
+	margin-bottom: 1em;
+}
+
 @media(max-width: 767px) {
 	#prefooter {
 		height: 175px;
@@ -30,4 +34,11 @@
     body {
         margin-bottom: $footer-height + 144px;
     }
+}
+
+@media (max-width: 767px) {
+	.sponsors-logo {
+		max-width: 300px;
+		margin: 0 auto;
+	}
 }

@@ -3,48 +3,25 @@
 
 @import "vars";
 @import "rouge-base16-dark";
-@import "base";
+@import "theme-basic";
+@import "logo";
 
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro|Source+Sans+Pro:300,400,900');
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: $footer-height;
+}
 
 #main-content, #prefooter {
   font-weight: 300;
 }
 
-.logo-draw {
-	font-family: "Source Sans Pro", sans-serif;
-	font-weight: 900;
-	color: $highlight-color;
-}
-
-.logo-poli {
-	font-family: "Source Sans Pro", sans-serif;
-	font-weight: 400;
-	color: $logo-contrast-color;
-}
-
-.logo-ctf {
-	font-family: "Source Sans Pro", sans-serif;
-	font-weight: 400;
-	color: $highlight-color;
-}
-
-.brace-yourself {
-	text-align: center;
-	margin: 1em;
-	margin-bottom: 2em;
-	font-weight: 400;
-}
-
-.brace-yourself .head-up {
-	color: $highlight-color;
-	font-size: 2.2em;
-	font-family: "Source Code Pro", monospace;
-}
-
-.brace-yourself .head-down {
-	font-size: 1.6em;
-	font-family: "Source Sans Pro", sans-serif;
+.main-content {
+	margin-bottom: 1.2em;
 }
 
 .footer {
@@ -60,35 +37,12 @@
 	width: $footer-height;
 }
 
-.main-content {
-	margin-bottom: 1.2em;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: $footer-height;
-}
-
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
   height: $footer-height;
-}
-
-.sponsors-text {
-	margin-bottom: 1em;
-}
-
-ul.nav li:before {
-    content: "";
-    margin: 0;
 }
 
 .navbar {
@@ -118,6 +72,11 @@ ul.nav li:before {
 	text-decoration: none;
 }
 
+ul.nav li:before {
+    content: "";
+    margin: 0;
+}
+
 ul.navbar-nav a:hover:before {
 	content: "\\> ";
 	color: $highlight-color;
@@ -134,35 +93,4 @@ ul.navbar-nav .active a:before {
 
 ul.navbar-nav .no-before a:hover:before {
 	content: "";
-}
-
-/* typed.js */
-
-.typed-cursor{
-    opacity: 1;
-    -webkit-animation: blink 0.7s infinite;
-    -moz-animation: blink 0.7s infinite;
-    animation: blink 0.7s infinite;
-}
-@keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-@-webkit-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-@-moz-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-
-@media (max-width: 767px) {
-	.sponsors-logo {
-		max-width: 300px;
-		margin: 0 auto;
-	}
 }

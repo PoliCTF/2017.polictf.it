@@ -3,52 +3,39 @@ layout: default
 ---
 
 <div class="container">
-<section id="main-content">
+    <section id="main-content">
+        <div class="brace-yourself">
+            <p class="head-up">Brace Yourself...</p>
+            <p><span class="logo-draw logo-big">\></span></p>
+            <p class="head-down"><span class="type-is-coming"><span class="logo-draw">2017 \> </span><span class="logo-poli">poli</span><span class="logo-ctf">ctf</span></span> is coming!</p>
+        </div>
 
-<div class="brace-yourself">
-  <p class="head-up">Brace Yourself...</p>
-  <p style="font-size: 8em;"><span class="logo-draw">\></span></p>
-  <p class="head-down"><span class="type-is-coming"><span class="logo-draw">2017 \> </span><span class="logo-poli">poli</span><span class="logo-ctf">ctf</span></span> is coming!</p>
-</div>
+        <script src="{{ '/assets/js/home-page-type.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 
-<script>
-    $(function(){
-        $(".type-is-coming").typed({
-            strings: ["Fun", "A wonderful challenge", "<span class=\"logo-draw\">2017 \\> </span><span class=\"logo-poli\">poli</span><span class=\"logo-ctf\">ctf</span>"],
-            typeSpeed: 0,
-            callback: function() {
-                $( "span" ).siblings( ".typed-cursor" ).css( "animation", "none" );
-                $( "span" ).siblings( ".typed-cursor" ).hide();
-            }
-        });
-    });
-</script>
-
-<div>
-  {{ content }}
-</div>
-
-</section>
+        <div>
+            {{ content }}
+        </div>
+    </section>
 </div>
 
 <section id="prefooter">
     <div class="container">
-        <div class="text-muted sponsors-text">
+        <div class="text-muted">
             <p>polictf 2017 is kindly sponsored by</p>
         </div>
-    <div class="row sponsors-logo">
-        <div class="hidden-xs col-sm-1"></div>
-        <div class="col-xs-12 col-sm-5">
-            <a href="https://www.securenetwork.it/en/" target="_blank">
-                <img src="assets/images/sponsor/sn-logo.png" alt="Secure Network" />
-            </a>
+        <div class="row sponsors-logo">
+            <div class="hidden-xs col-sm-1"></div>
+            <div class="col-xs-12 col-sm-5">
+                <a href="https://www.securenetwork.it/en/" target="_blank">
+                    <img src="assets/images/sponsor/sn-logo.png" alt="Secure Network" />
+                </a>
+            </div>
+            <div class="col-xs-12 col-sm-5">
+                <a href="https://www.consorzio-cini.it/index.php/en/national-laboratories/labcs-home" target="_blank">
+                    <img src="assets/images/sponsor/cini.png" alt="CINI Cyber Security National Lab" />
+                </a>
+            </div>
+            <div class="hidden-xs col-sm-1"></div>
         </div>
-        <div class="col-xs-12 col-sm-5">
-            <a href="https://www.consorzio-cini.it/index.php/en/national-laboratories/labcs-home" target="_blank">
-                <img src="assets/images/sponsor/cini.png" alt="Consorzio interuniversitario nazionale per l'informatica" />
-            </a>
-        </div>
-        <div class="hidden-xs col-sm-1"></div>
-    </div>
     </div>
 </section>

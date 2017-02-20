@@ -1,0 +1,65 @@
+@import 'vars';
+
+.logo-draw {
+	font-family: $main-font;
+	font-weight: 900;
+	color: $highlight-color;
+}
+
+.logo-poli {
+	font-family: $main-font;
+	font-weight: 400;
+	color: $logo-contrast-color;
+}
+
+.logo-ctf {
+	font-family: $main-font;
+	font-weight: 400;
+	color: $highlight-color;
+}
+
+.brace-yourself {
+	text-align: center;
+	margin: 1em;
+	margin-bottom: 2em;
+	font-weight: 400;
+}
+
+.logo-big {
+    font-size: 8em;
+}
+
+.brace-yourself .head-up {
+	color: $highlight-color;
+	font-size: 2.2em;
+	font-family: $title-font;
+}
+
+.brace-yourself .head-down {
+	font-size: 1.6em;
+	font-family: $main-font;
+}
+
+/* typed.js */
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}

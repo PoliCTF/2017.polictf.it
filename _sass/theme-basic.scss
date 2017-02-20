@@ -10,7 +10,7 @@ body {
   color: $text-color;
   font-size: 16px;
   line-height: 1.5;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: $main-font;
 }
 
 /* General & 'Reset' Stuff */
@@ -47,7 +47,7 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: "Source Code Pro", monospace;
+  font-family: $title-font;
   color: $highlight-color;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
@@ -95,7 +95,7 @@ ul li {
 
 ul li:before {
   content: ">>";
-  font-family: "Source Code Pro", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: $title-font;
   font-size: 13px;
   color: #9abbff;
   margin-left: -37px;
@@ -174,11 +174,6 @@ hr {
   width: 16px;
   height: 16px;
   margin: 1px 8px 0 0;
-}
-
-.btn-github .icon {
-  opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
 /* Links
