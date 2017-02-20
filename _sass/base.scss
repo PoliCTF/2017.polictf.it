@@ -1,13 +1,16 @@
-@import "rouge-base16-dark";
+// Based on Jekyll Hacker theme
+// https://github.com/pages-themes/hacker
+
+@import "vars";
 
 body {
   margin: 0;
   padding: 0;
-  background: #151515 url("../images/bkg.png") 0 0;
-  color: #eaeaea;
+  background: $background-color url("../images/bkg.png") 0 0;
+  color: $text-color;
   font-size: 16px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 /* General & 'Reset' Stuff */
@@ -31,53 +34,7 @@ li {
   line-height: 1.4 ;
 }
 
-/* Header, <header>
-   header   - container
-   h1       - project name
-   h2       - project description
-*/
-
-header {
-  background: rgba(0, 0, 0, 0.1);
-  width: 100%;
-  border-bottom: 1px dashed #9abbff;
-  padding: 20px 0;
-  margin: 0 0 40px 0;
-}
-
-header h1 {
-  font-size: 30px;
-  line-height: 1.5;
-  margin: 0 0 0 -40px;
-  font-weight: bold;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #9abbff;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -1px;
-  -webkit-font-smoothing: antialiased;
-}
-
-header h1:before {
-  content: "./ ";
-  font-size: 24px;
-}
-
-header h2 {
-  font-size: 18px;
-  font-weight: 300;
-  color: #666;
-}
-
-#downloads .btn {
-  display: inline-block;
-  text-align: center;
-  margin: 0;
-}
-
-/* Main Content
-*/
+/* Main Content */
 
 #main_content {
   width: 100%;
@@ -89,8 +46,8 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #9abbff;
+  font-family: "Source Code Pro", monospace;
+  color: $highlight-color;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -137,7 +94,7 @@ ul li {
 
 ul li:before {
   content: ">>";
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: "Source Code Pro", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 13px;
   color: #9abbff;
   margin-left: -37px;
@@ -156,7 +113,7 @@ pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 16px;
-  color: #9abbff;
+  color: $highlight-color;
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
@@ -172,7 +129,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #9abbff;
+  border-bottom: 1px dashed $highlight-color;
   padding: 5px 10px;
 }
 
@@ -183,8 +140,8 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #9abbff;
-  color: #9abbff;
+  border-bottom: 1px dashed $highlight-color;
+  color: $highlight-color;
 }
 
 /* Buttons
@@ -216,7 +173,6 @@ hr {
   width: 16px;
   height: 16px;
   margin: 1px 8px 0 0;
-  float: left;
 }
 
 .btn-github .icon {
@@ -228,8 +184,14 @@ hr {
    a, a:hover, a:visited
 */
 
-a {
-  color: rgb(51, 105, 178);
+a, a:visited {
+  color: darken($link-color, 5%);
+  text-shadow: 0 0 5px rgba(51, 105, 178, 0.5);
+}
+
+a:hover {
+  color: darken($link-color, 20%);
+  text-decoration: none;
   text-shadow: 0 0 5px rgba(51, 105, 178, 0.5);
 }
 

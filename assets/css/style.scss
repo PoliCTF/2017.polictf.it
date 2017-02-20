@@ -1,7 +1,29 @@
 ---
 ---
 
-@import 'jekyll-theme-hacker';
+@import "vars";
+@import "rouge-base16-dark";
+@import "base";
+
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro|Source+Sans+Pro:400,900');
+
+.logo-draw {
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: 900;
+	color: $highlight-color;
+}
+
+.logo-poli {
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: 400;
+	color: $logo-contrast-color;
+}
+
+.logo-ctf {
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: 400;
+	color: $highlight-color;
+}
 
 .brace-yourself {
 	text-align: center;
@@ -10,16 +32,18 @@
 }
 
 .brace-yourself .head-up {
-	color: #9abbff;
+	color: $highlight-color;
 	font-size: 2.2em;
+	font-family: "Source Code Pro", monospace;
 }
 
 .brace-yourself .head-down {
 	font-size: 1.6em;
+	font-family: "Source Sans Pro", sans-serif;
 }
 
 .footer {
-	border-top: 1px dashed #9abbff;
+	border-top: 1px dashed $highlight-color;
 	margin-top: 2em;
 	padding-top: 2em;
 	font-size: 0.83em;
@@ -44,10 +68,97 @@ body {
   /* Margin bottom by footer height */
   margin-bottom: 130px;
 }
+
+#prefooter {
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.1);
+	border-top: 1px dashed $highlight-color;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 130px;
+}
+
+.sponsors-text {
+	margin-bottom: 1em;
+}
+
+ul.nav li:before {
+    content: "";
+    margin: 0;
+}
+
+.navbar {
+	background: rgba(0, 0, 0, 0.1);
+	width: 100%;
+	padding: 15px 0;
+	border-bottom: 1px dashed $highlight-color;
+}
+
+.navbar-container {
+	width: 90%;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  color: $highlight-color;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(181, 232, 83, 0.1),
+               0 0 10px rgba(181, 232, 83, 0.1);
+  letter-spacing: -1px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.navbar-brand a:hover {
+	text-decoration: none;
+}
+
+ul.navbar-nav a:hover:before {
+	content: "\\> ";
+	color: $highlight-color;
+}
+
+ul.navbar-nav .active a:before {
+	content: "\\> ";
+	color: $highlight-color;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+ul.navbar-nav .no-before a:hover:before {
+	content: "";
+}
+
+/* typed.js */
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
 }

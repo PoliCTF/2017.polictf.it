@@ -13,10 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PoliCTF
+title: \> polictf 2017
 email: info@polictf.it
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+polictf: <span class="logo-poli">poli</span><span class="logo-ctf">ctf</span>
+
+navigation:
+  pages: ['/instructions', '/archive']
 
 contacts:
     - icon: twitter
@@ -28,6 +32,9 @@ contacts:
     - icon: envelope
       name: info@polictf.it
       url: mailto:info@polictf.it
+    - icon: comment
+      name: "#polictf on hackint"
+      url: https://webirc.hackint.org/#polictf
 
 # Build settings
 markdown: kramdown
