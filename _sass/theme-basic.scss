@@ -94,12 +94,12 @@ ul li {
 }
 
 ul li:before {
-  content: ">>";
+  content: "\\>";
   font-family: $title-font;
-  font-size: 13px;
+  font-size: 0.9em;
   color: #9abbff;
   margin-left: -37px;
-  margin-right: 21px;
+  margin-right: 0.8em;
   line-height: 16px;
 }
 

@@ -11,4 +11,5 @@ $background-color: #151515;
 $footer-height: 130px;
 
 $main-font: "Source Sans Pro", Arial, Helvetica, sans-serif;
-$title-font: "Source Code Pro", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+$title-font: $main-font;
+$brace-yourself-font: "Source Code Pro", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
