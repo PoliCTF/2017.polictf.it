@@ -1,7 +1,8 @@
 $(function(){
     $(".type-is-coming").typed({
-        strings: ["Fun", "A wonderful challenge", "<span class=\"logo-draw\">2017 \\> </span><span class=\"logo-poli\">poli</span><span class=\"logo-ctf\">ctf</span>"],
+        strings: ["A wonderful challenge", "Fun", "<span class=\"logo-draw\">2017 \\> </span><span class=\"logo-poli\">poli</span><span class=\"logo-ctf\">ctf</span>"],
         typeSpeed: 0,
+        startDelay: 300,
         backDelay: 900,
         callback: function() {
             $( "span" ).siblings( ".typed-cursor" ).css( "animation", "none" );
