@@ -5,10 +5,9 @@ menu: false
 prefooter: true
 ---
 
-{{ site.polictf }} is an online jeopardy-style capture the flag competition, open to everyone.
+{{ site.polictf }} 2017 is the third edition of our online jeopardy-style capture the flag competition, organized with love by the Tower of Hanoi CTF team and open to everyone!
 
-The competition will be held during the summer of 2017. The date will be announced very soon -- stay
-tuned (and follow us on [twitter](https://twitter.com/towerofhanoi))!
+For the latest news, stay tuned (and follow us on [twitter](https://twitter.com/towerofhanoi))!
 
 ### Who are we?
 
