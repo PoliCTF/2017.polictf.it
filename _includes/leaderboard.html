@@ -1,0 +1,70 @@
+<table id="leaderboard" class="table">
+    <thead>
+        <tr>
+            <th>Ranking</th>
+            <th>Team</th>
+            <th>Country</th>
+            <th>Score</th>
+            <th>Solves</th>
+        </tr>
+    </thead>
+    <tbody>
+	    {% assign sorted_teams = (site.data.leaderboard.standings | sort: 'pos') %}
+
+    	{% for team in sorted_teams %}
+        <tr>
+           <td>#{{team.pos}}</td>
+           <td>	
+           		{% if team.website != "" %}<a href="{{ team.website }}" target="_blank" rel="noindex,nofollow">{{team.team}}</a>{% else %}{{team.team}}{% endif %}
+           		{% if team.twitter != "" %}&nbsp;&nbsp;&nbsp;&nbsp;<small><i class="fa fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{team.twitter}}" target="_blank">{{team.twitter}}</a></small>{% endif %}
+           	</td>
+           <td>{{team.country}}</td>
+           <td>{{team.score}}</td>
+           <td><a href="#" class="team-details" data-team="{{team.pos}}">Details</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<script>
+
+$.getJSON("/assets/leaderboard.json", function(json) {
+
+	$('a[data-team]').click(function() {
+
+		var teamid = $(this).attr('data-team');
+
+		var d = $('#details-' + teamid).fadeToggle();
+		if(d.length == 0) {
+
+			team = json['standings'].filter(function(curteam) {
+				return curteam.pos == teamid;
+			})[0];
+
+			$('tr.details').remove();
+
+			$(this).closest('tr').after(
+				'<tr class="details" id="details-' + teamid + '"> colspan="5"><td></td></tr>'
+			);
+
+			str = '<td colspan="5">';
+
+			for (var property in team['taskStats']) {
+			    if (team['taskStats'].hasOwnProperty(property)) {
+			        str = str + "<li><small>" + property + "&nbsp;&nbsp;<i>" + team.taskStats[property].points + " points</i></small></li>";
+			    }
+			}
+
+			str = str + "</td>";
+
+			$('tr.details').hide().html(str).fadeIn();
+
+	    }
+
+	    //prevent location change
+		return false;
+
+	}); 
+});
+
+</script>

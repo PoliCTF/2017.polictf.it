@@ -1,0 +1,5899 @@
+{
+    "standings": [
+        {
+            "website": "https://kitctf.de", 
+            "lastAccept": 1499552830, 
+            "score": 5255, 
+            "team": "KITCTF", 
+            "country": "Germany", 
+            "twitter": "@KITCTF", 
+            "pos": 1, 
+            "taskStats": {
+                "y-turtle": {
+                    "points": 425, 
+                    "time": 1499457375
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499430176
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499432458
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499421332
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499462828
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499552830
+                }, 
+                "Kompreplicants": {
+                    "points": 446, 
+                    "time": 1499477129
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499437962
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499439363
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499426890
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499537590
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499443699
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499452041
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499440890
+                }, 
+                "Lamermi": {
+                    "points": 484, 
+                    "time": 1499552422
+                }, 
+                "Pyzzeria": {
+                    "points": 484, 
+                    "time": 1499550009
+                }, 
+                "PoliWars": {
+                    "points": 484, 
+                    "time": 1499521891
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499564201, 
+            "score": 4755, 
+            "team": "LC/BC", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 2, 
+            "taskStats": {
+                "Stegocat": {
+                    "points": 432, 
+                    "time": 1499465743
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499448184
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499442032
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499425524
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499557868
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499555925
+                }, 
+                "Kompreplicants": {
+                    "points": 446, 
+                    "time": 1499434775
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499423622
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499430698
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499427538
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499564201
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499444034
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499446332
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499460301
+                }, 
+                "Ham": {
+                    "points": 469, 
+                    "time": 1499447220
+                }, 
+                "Synesthesia": {
+                    "points": 476, 
+                    "time": 1499436891
+                }
+            }
+        }, 
+        {
+            "website": "http://infosectcbr.com.au/", 
+            "lastAccept": 1499581367, 
+            "score": 4570, 
+            "team": "InfoSect", 
+            "country": "Australia", 
+            "twitter": "infosectcbr", 
+            "pos": 3, 
+            "taskStats": {
+                "Stegocat": {
+                    "points": 432, 
+                    "time": 1499490478
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499440969
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499419510
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499436437
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499513492
+                }, 
+                "finally we met": {
+                    "points": 500, 
+                    "time": 1499552602
+                }, 
+                "Super-secure custom One Time Pad!": {
+                    "points": 500, 
+                    "time": 1499500137
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499426084
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499438231
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499444260
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499536246
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499506356
+                }, 
+                "HanoiPub": {
+                    "points": 484, 
+                    "time": 1499581367
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499447482
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499562164
+                }
+            }
+        }, 
+        {
+            "website": "http://shellphish.net", 
+            "lastAccept": 1499586765, 
+            "score": 3810, 
+            "team": "Shellphish", 
+            "country": "United States", 
+            "twitter": "Shellphish", 
+            "pos": 4, 
+            "taskStats": {
+                "Stegocat": {
+                    "points": 432, 
+                    "time": 1499472070
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499474977
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499441894
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499586765
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499446543
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499485368
+                }, 
+                "Kompreplicants": {
+                    "points": 446, 
+                    "time": 1499569336
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499451816
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499460406
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499476342
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499565449
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499495200
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499470777
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499542477
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499566354, 
+            "score": 3364, 
+            "team": "dcua", 
+            "country": "Ukraine", 
+            "twitter": "", 
+            "pos": 5, 
+            "taskStats": {
+                "Stegocat": {
+                    "points": 432, 
+                    "time": 1499474762
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499457039
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499427488
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499456300
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499536882
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499535883
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499523934
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499501220
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499440223
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499535782
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499528867
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499471002
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499566354
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499547061, 
+            "score": 2953, 
+            "team": "vxrl", 
+            "country": "Hong Kong", 
+            "twitter": "", 
+            "pos": 6, 
+            "taskStats": {
+                "y-turtle": {
+                    "points": 425, 
+                    "time": 1499506792
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499428579
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499418734
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499420009
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499512468
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499515047
+                }, 
+                "Stegocat": {
+                    "points": 432, 
+                    "time": 1499544431
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499448356
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499535359
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499434823
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499446437
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499547061
+                }
+            }
+        }, 
+        {
+            "website": "https://secgroup.github.io/", 
+            "lastAccept": 1499564405, 
+            "score": 2759, 
+            "team": "c00kies@venice", 
+            "country": "Italy", 
+            "twitter": "c00kiesATvenice", 
+            "pos": 7, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499564405
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499447875
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499419385
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499424974
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499512528
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499427783
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499435736
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499472557
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499473670
+                }, 
+                "HanoiPub": {
+                    "points": 484, 
+                    "time": 1499458654
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499538202
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499547068, 
+            "score": 2700, 
+            "team": "TokyoWesterns", 
+            "country": "Japan", 
+            "twitter": "@TokyoWesterns", 
+            "pos": 8, 
+            "taskStats": {
+                "y-turtle": {
+                    "points": 425, 
+                    "time": 1499441722
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499427312
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499418669
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499420729
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499503161
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499481774
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499486316
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499486008
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499537298
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499494750
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499547068
+                }
+            }
+        }, 
+        {
+            "website": "https://jbzteam.github.io", 
+            "lastAccept": 1499555150, 
+            "score": 2673, 
+            "team": "jbz", 
+            "country": "Italy", 
+            "twitter": "JBZTeam", 
+            "pos": 9, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499545456
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499517127
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499420050
+                }, 
+                "Ham": {
+                    "points": 469, 
+                    "time": 1499464834
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499549778
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499437862
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499442478
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499524404
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499524475
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499547546
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499555150
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499538673, 
+            "score": 2387, 
+            "team": "OpenToAll", 
+            "country": "Antarctica", 
+            "twitter": "", 
+            "pos": 10, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499538673
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499420596
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499447474
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499515850
+                }, 
+                "Pyzzeria": {
+                    "points": 484, 
+                    "time": 1499521651
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499420034
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499447573
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499452008
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499455370
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499447566
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499569474, 
+            "score": 2304, 
+            "team": "HackingForSoju", 
+            "country": "Sweden", 
+            "twitter": "HackingForSoju", 
+            "pos": 11, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499541598
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499418822
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499520413
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499517303
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499422833
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499554013
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499507188
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499474619
+                }, 
+                "PoliWars": {
+                    "points": 484, 
+                    "time": 1499569474
+                }
+            }
+        }, 
+        {
+            "website": "https://fluxfingers.net", 
+            "lastAccept": 1499564593, 
+            "score": 2299, 
+            "team": "FluxFingers", 
+            "country": "Germany", 
+            "twitter": "FluxFingers", 
+            "pos": 12, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499546548
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499523342
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499559279
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499564593
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499479742
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499545781
+                }, 
+                "EzWinShell": {
+                    "points": 492, 
+                    "time": 1499556608
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499542147
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499531320
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499545936, 
+            "score": 2172, 
+            "team": "TheNorthernCoalition", 
+            "country": "Canada", 
+            "twitter": "", 
+            "pos": 13, 
+            "taskStats": {
+                "y-turtle": {
+                    "points": 425, 
+                    "time": 1499534123
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499536442
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499437970
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499498504
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499539817
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499444316
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499479661
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499440153
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499545936
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499542442
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499568066, 
+            "score": 2025, 
+            "team": "HackXore", 
+            "country": "Antarctica", 
+            "twitter": "", 
+            "pos": 14, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499539671
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499537292
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499436715
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499512647
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499440427
+                }, 
+                "Stegocat": {
+                    "points": 432, 
+                    "time": 1499554073
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499466065
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499452751
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499568066
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499567114, 
+            "score": 1997, 
+            "team": "spritzers", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 15, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499537765
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499466687
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499564148
+                }, 
+                "Kompreplicants": {
+                    "points": 446, 
+                    "time": 1499428945
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499529578
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499432440
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499506817
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499477239
+                }, 
+                "Pyzzeria": {
+                    "points": 484, 
+                    "time": 1499567114
+                }
+            }
+        }, 
+        {
+            "website": "http://hxp.io", 
+            "lastAccept": 1499464723, 
+            "score": 1894, 
+            "team": "H4x0rPsch0rr", 
+            "country": "Germany", 
+            "twitter": "", 
+            "pos": 16, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499429263
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499429846
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499430920
+                }, 
+                "Kompreplicants": {
+                    "points": 446, 
+                    "time": 1499445837
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499440449
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499430615
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499442501
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499464723
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499461014
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499557563, 
+            "score": 1864, 
+            "team": "Boosted Bonobos", 
+            "country": "Germany", 
+            "twitter": "", 
+            "pos": 17, 
+            "taskStats": {
+                "y-turtle": {
+                    "points": 425, 
+                    "time": 1499452732
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499538067
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499428002
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499450445
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499557563
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499453439
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499469564
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499439509
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499442486
+                }
+            }
+        }, 
+        {
+            "website": "https://losfuzzys.github.io/", 
+            "lastAccept": 1499547855, 
+            "score": 1793, 
+            "team": "LosFuzzys", 
+            "country": "Austria", 
+            "twitter": "LosFuzzys", 
+            "pos": 18, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499538992
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499517572
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499418996
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499435743
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499508844
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499517564
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499542738
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499524392
+                }, 
+                "y-turtle": {
+                    "points": 425, 
+                    "time": 1499547855
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499542328, 
+            "score": 1717, 
+            "team": "SPD", 
+            "country": "Romania", 
+            "twitter": "", 
+            "pos": 19, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499542328
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499471301
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499442101
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499473634
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499517611
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499526421
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499466053
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499444997
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499456856
+                }
+            }
+        }, 
+        {
+            "website": "https://bushwhackers.ru/", 
+            "lastAccept": 1499538513, 
+            "score": 1688, 
+            "team": "Bushwhackers", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 20, 
+            "taskStats": {
+                "y-turtle": {
+                    "points": 425, 
+                    "time": 1499525380
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499538513
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499516464
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499528304
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499506287
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499529456
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499447564
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499545802, 
+            "score": 1678, 
+            "team": "MV9rwGOf08", 
+            "country": "Barbados", 
+            "twitter": "", 
+            "pos": 21, 
+            "taskStats": {
+                "y-turtle": {
+                    "points": 425, 
+                    "time": 1499447390
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499514875
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499440557
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499542516
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499456585
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499545802
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499520146
+                }
+            }
+        }, 
+        {
+            "website": "https://asisctf.com", 
+            "lastAccept": 1499573078, 
+            "score": 1673, 
+            "team": "ASIS", 
+            "country": "Iran", 
+            "twitter": "factoreal", 
+            "pos": 22, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499535275
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499447328
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499510148
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499436273
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499472290
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499523196
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499528774
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499573078
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499556829, 
+            "score": 1635, 
+            "team": "[TechnoPandas]", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 23, 
+            "taskStats": {
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499556829
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499454582
+                }, 
+                "Ham": {
+                    "points": 469, 
+                    "time": 1499452233
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499424923
+                }, 
+                "Synesthesia": {
+                    "points": 476, 
+                    "time": 1499500747
+                }
+            }
+        }, 
+        {
+            "website": "http://netcat.us/", 
+            "lastAccept": 1499544264, 
+            "score": 1584, 
+            "team": "Netcat.us", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 24, 
+            "taskStats": {
+                "Stegocat": {
+                    "points": 432, 
+                    "time": 1499517464
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499534163
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499468248
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499465289
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499544264
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499455936
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499503274
+                }
+            }
+        }, 
+        {
+            "website": "https://harekaze.com", 
+            "lastAccept": 1499558989, 
+            "score": 1572, 
+            "team": "Harekaze", 
+            "country": "Japan", 
+            "twitter": "TeamHarekaze", 
+            "pos": 25, 
+            "taskStats": {
+                "y-turtle": {
+                    "points": 425, 
+                    "time": 1499503733
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499421276
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499535333
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499535909
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499419888
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499434409
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499548720
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499558989
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499579212, 
+            "score": 1492, 
+            "team": "0ops", 
+            "country": "China", 
+            "twitter": "", 
+            "pos": 26, 
+            "taskStats": {
+                "HanoiPub": {
+                    "points": 484, 
+                    "time": 1499579212
+                }, 
+                "Kompreplicants": {
+                    "points": 446, 
+                    "time": 1499449195
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499536746
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499430403
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499482176
+                }
+            }
+        }, 
+        {
+            "website": "https://p4.team", 
+            "lastAccept": 1499540492, 
+            "score": 1416, 
+            "team": "p4team", 
+            "country": "Poland", 
+            "twitter": "", 
+            "pos": 27, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499540492
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499419057
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499420487
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499523775
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499451958
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499446279
+                }, 
+                "Ham": {
+                    "points": 469, 
+                    "time": 1499466968
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499567612, 
+            "score": 1416, 
+            "team": "noraneco", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 28, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499567612
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499446705
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499431739
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499515729
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499521422
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499514514
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499482577
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499495655
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499550918, 
+            "score": 1403, 
+            "team": "greunion", 
+            "country": "Greece", 
+            "twitter": "", 
+            "pos": 29, 
+            "taskStats": {
+                "Stegocat": {
+                    "points": 432, 
+                    "time": 1499455980
+                }, 
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499547936
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499430754
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499430899
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499528442
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499455283
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499550918
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499454207, 
+            "score": 1353, 
+            "team": "scryptos", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 30, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499449556
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499435278
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499426827
+                }, 
+                "Pong (lvl 1)": {
+                    "points": 418, 
+                    "time": 1499449188
+                }, 
+                "Pong (lvl 2)": {
+                    "points": 418, 
+                    "time": 1499454207
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499543406, 
+            "score": 1324, 
+            "team": "vanhelsing", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 31, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499540671
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499441863
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499520483
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499446104
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499515942
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499440991
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499543406
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499572138, 
+            "score": 1292, 
+            "team": "xSTF", 
+            "country": "Portugal", 
+            "twitter": "ExtremeSTF", 
+            "pos": 32, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499558806
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499423002
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499476967
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499480200
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499452420
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499572138
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499570939
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499582939, 
+            "score": 1289, 
+            "team": "!soBad", 
+            "country": "Poland", 
+            "twitter": "", 
+            "pos": 33, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499538635
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499419903
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499425692
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499422189
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499464492
+                }, 
+                "Powder Toy CPU": {
+                    "points": 500, 
+                    "time": 1499582939
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499444834
+                }
+            }
+        }, 
+        {
+            "website": "https://peori.space", 
+            "lastAccept": 1499557825, 
+            "score": 1204, 
+            "team": "peori", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 34, 
+            "taskStats": {
+                "y-turtle": {
+                    "points": 425, 
+                    "time": 1499473984
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499449103
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499516044
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499480310
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499463048
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499557825
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499503399, 
+            "score": 1197, 
+            "team": "PPP", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 35, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499461735
+                }, 
+                "PoliWars": {
+                    "points": 484, 
+                    "time": 1499503399
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499490489
+                }, 
+                "Synesthesia": {
+                    "points": 476, 
+                    "time": 1499458122
+                }
+            }
+        }, 
+        {
+            "website": "http://zenhack.team", 
+            "lastAccept": 1499549875, 
+            "score": 1115, 
+            "team": "ZenHack", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 36, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499544806
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499420710
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499539398
+                }, 
+                "Kompreplicants": {
+                    "points": 446, 
+                    "time": 1499549875
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499448948
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499528727
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499514684, 
+            "score": 1113, 
+            "team": "Lights Out", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 37, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499455214
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499431132
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499438765
+                }, 
+                "Kompreplicants": {
+                    "points": 446, 
+                    "time": 1499510993
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499514684
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499437685
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499538015, 
+            "score": 1100, 
+            "team": "galhacktic trendsetters", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 38, 
+            "taskStats": {
+                "Stegocat": {
+                    "points": 432, 
+                    "time": 1499538015
+                }, 
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499467540
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499466219
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499461319
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499454175
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499585222, 
+            "score": 1099, 
+            "team": "UPTimSec", 
+            "country": "Romania", 
+            "twitter": "", 
+            "pos": 39, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499515183
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499423318
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499457887
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499585222
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499537219
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499523010
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499553221
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499537374, 
+            "score": 1057, 
+            "team": "struct.pack", 
+            "country": "Heard and Mc Donald ", 
+            "twitter": "structpack", 
+            "pos": 40, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499430211
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499537374
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499502999
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499537177
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499519587
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499524947
+                }
+            }
+        }, 
+        {
+            "website": "http://defbra.at", 
+            "lastAccept": 1499552137, 
+            "score": 884, 
+            "team": "defragmented.brains", 
+            "country": "Austria", 
+            "twitter": "@defbra", 
+            "pos": 41, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499478873
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499480179
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499458284
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499552137
+                }, 
+                "Lamermi": {
+                    "points": 484, 
+                    "time": 1499525231
+                }
+            }
+        }, 
+        {
+            "website": "https://github.com/irGeeks", 
+            "lastAccept": 1499493771, 
+            "score": 864, 
+            "team": "irGeeks", 
+            "country": "Iran", 
+            "twitter": "", 
+            "pos": 42, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499422482
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499440193
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499493771
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499451291
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499563903, 
+            "score": 835, 
+            "team": "SnatchTheRoot", 
+            "country": "Poland", 
+            "twitter": "", 
+            "pos": 43, 
+            "taskStats": {
+                "Stegocat": {
+                    "points": 432, 
+                    "time": 1499547994
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499563903
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499460709
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499508693
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499459764
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499568914, 
+            "score": 821, 
+            "team": "Camelot", 
+            "country": "Australia", 
+            "twitter": "", 
+            "pos": 44, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499568914
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499428927
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499432544
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499433513
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499452030
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499491041
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499569872, 
+            "score": 798, 
+            "team": "EB FE", 
+            "country": "Germany", 
+            "twitter": "", 
+            "pos": 45, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499436008
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499569872
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499423100
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499551548
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499561065
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499460937
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499589407, 
+            "score": 798, 
+            "team": "VoidHack", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 46, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499427775
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499449197
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499436191
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499449097
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499589407
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499486044
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499557594, 
+            "score": 793, 
+            "team": "PKTeam", 
+            "country": "Spain", 
+            "twitter": "", 
+            "pos": 47, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499557594
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499472867
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499421298
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499424070
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499466649
+                }
+            }
+        }, 
+        {
+            "website": "http://insecurity-insa.fr/", 
+            "lastAccept": 1499555582, 
+            "score": 789, 
+            "team": "InSecurity", 
+            "country": "France", 
+            "twitter": "InsecurityAsso", 
+            "pos": 48, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499555582
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499449547
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499450386
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499451450
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499469756
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499464099
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499556357, 
+            "score": 789, 
+            "team": "8710*IQ", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 49, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499556357
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499476868
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499468475
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499492761
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499503070
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499532435
+                }
+            }
+        }, 
+        {
+            "website": "https://ctf.tecland.com.br", 
+            "lastAccept": 1499571864, 
+            "score": 789, 
+            "team": "ELT", 
+            "country": "Brazil", 
+            "twitter": "eltctfbr", 
+            "pos": 50, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499541759
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499433517
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499490065
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499562600
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499469534
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499571864
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499534831, 
+            "score": 782, 
+            "team": "D isas func", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 51, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499452498
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499441872
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499445437
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499453592
+                }, 
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499534831
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499554483, 
+            "score": 746, 
+            "team": "vir00s", 
+            "country": "Armenia", 
+            "twitter": "", 
+            "pos": 52, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499479345
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499554483
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499469896
+                }, 
+                "Synesthesia": {
+                    "points": 476, 
+                    "time": 1499512483
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499589326, 
+            "score": 730, 
+            "team": "securisecctf", 
+            "country": "Antarctica", 
+            "twitter": "", 
+            "pos": 53, 
+            "taskStats": {
+                "Lamermi": {
+                    "points": 484, 
+                    "time": 1499474870
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499429956
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499433850
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499589326
+                }
+            }
+        }, 
+        {
+            "website": "http://hexpresso.team", 
+            "lastAccept": 1499438222, 
+            "score": 729, 
+            "team": "Hexpresso", 
+            "country": "France", 
+            "twitter": "@HexpressoCTF", 
+            "pos": 54, 
+            "taskStats": {
+                "y-turtle": {
+                    "points": 425, 
+                    "time": 1499430391
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499438222
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499419941
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499435161
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499516223, 
+            "score": 719, 
+            "team": "deptraivkl", 
+            "country": "Vietnam", 
+            "twitter": "", 
+            "pos": 55, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499515024
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499481574
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499516223
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499492415
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499580411, 
+            "score": 708, 
+            "team": "dTry", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 56, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499515809
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499523573
+                }, 
+                "EzWinShell": {
+                    "points": 492, 
+                    "time": 1499580411
+                }
+            }
+        }, 
+        {
+            "website": "https://github.com/infoseciitr", 
+            "lastAccept": 1499480379, 
+            "score": 701, 
+            "team": "InfoSecIITR", 
+            "country": "India", 
+            "twitter": "", 
+            "pos": 57, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499428736
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499459017
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499456764
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499435199
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499480379
+                }
+            }
+        }, 
+        {
+            "website": "https://saarsec.rocks/", 
+            "lastAccept": 1499529095, 
+            "score": 701, 
+            "team": "saarsec", 
+            "country": "Germany", 
+            "twitter": "@saarsec", 
+            "pos": 58, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499439745
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499529095
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499424096
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499443167
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499470869
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499588315, 
+            "score": 701, 
+            "team": "Team-Security", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 59, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499581329
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499588315
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499481710
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499507789
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499491893
+                }
+            }
+        }, 
+        {
+            "website": "http://blackbunny.io/", 
+            "lastAccept": 1499575196, 
+            "score": 682, 
+            "team": "blackbunny", 
+            "country": "France", 
+            "twitter": "", 
+            "pos": 60, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499575196
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499557929
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499512495
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499518212
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499533308, 
+            "score": 678, 
+            "team": "Invulnerable", 
+            "country": "Russia", 
+            "twitter": "invulnerablectf", 
+            "pos": 61, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499514065
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499427256
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499533308
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499437657
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499496425
+                }
+            }
+        }, 
+        {
+            "website": "http://karabut.com", 
+            "lastAccept": 1499463277, 
+            "score": 623, 
+            "team": "DustDevils", 
+            "country": "Russia", 
+            "twitter": "@rkarabut", 
+            "pos": 62, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499463277
+                }, 
+                "Ham": {
+                    "points": 469, 
+                    "time": 1499447237
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499578501, 
+            "score": 602, 
+            "team": "RAND0M", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 63, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499569266
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499578501
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499486094
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499483057
+                }
+            }
+        }, 
+        {
+            "website": "http://www.fourchette-bombe.com", 
+            "lastAccept": 1499545955, 
+            "score": 585, 
+            "team": "Fourchette Bombe", 
+            "country": "Switzerland", 
+            "twitter": "", 
+            "pos": 64, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499545955
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499419132
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499422063
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499450072
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499519544, 
+            "score": 561, 
+            "team": "gotofail", 
+            "country": "Germany", 
+            "twitter": "derbenoo", 
+            "pos": 65, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499443823
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499421442
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499425199
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499519544
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499543617, 
+            "score": 540, 
+            "team": "argaz", 
+            "country": "Israel", 
+            "twitter": "", 
+            "pos": 66, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499543617
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499474443
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499455875
+                }
+            }
+        }, 
+        {
+            "website": "https://glua.team/", 
+            "lastAccept": 1499578248, 
+            "score": 540, 
+            "team": "glua.team", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 67, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499554620
+                }, 
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499578248
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499478884
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499466468, 
+            "score": 517, 
+            "team": "PseudoRandom", 
+            "country": "Israel", 
+            "twitter": "", 
+            "pos": 68, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499452587
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499466468
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499429839
+                }
+            }
+        }, 
+        {
+            "website": "https://blacktr.org", 
+            "lastAccept": 1499536542, 
+            "score": 515, 
+            "team": "BlackTR", 
+            "country": "Hong Kong", 
+            "twitter": "", 
+            "pos": 69, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499536542
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499518263
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499513228
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499491881
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499471501, 
+            "score": 478, 
+            "team": "Colonel_0x20", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 70, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499448475
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499471501
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499427406
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499446664, 
+            "score": 469, 
+            "team": "d0rksec", 
+            "country": "Australia", 
+            "twitter": "", 
+            "pos": 71, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499426908
+                }, 
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499446664
+                }
+            }
+        }, 
+        {
+            "website": "https://jinmo.github.io", 
+            "lastAccept": 1499438950, 
+            "score": 466, 
+            "team": "motesolo", 
+            "country": "South Korea", 
+            "twitter": "@jinmo123", 
+            "pos": 72, 
+            "taskStats": {
+                "echo fail": {
+                    "points": 349, 
+                    "time": 1499424954
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499438950
+                }
+            }
+        }, 
+        {
+            "website": "http://www.pwnium.tn/", 
+            "lastAccept": 1499556634, 
+            "score": 430, 
+            "team": "Pwnium", 
+            "country": "Tunisia", 
+            "twitter": "", 
+            "pos": 73, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499556634
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499433355
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499450601
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499566006, 
+            "score": 430, 
+            "team": "VVV", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 74, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499559383
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499479330
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499566006
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499515510, 
+            "score": 424, 
+            "team": "WeDontPlayCTF", 
+            "country": "India", 
+            "twitter": "", 
+            "pos": 75, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499513231
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499420259
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499515510
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499503916
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499544374, 
+            "score": 422, 
+            "team": "HackPack", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 76, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499544374
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499449706
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499478375
+                }
+            }
+        }, 
+        {
+            "website": "https://0x90r00t.com/", 
+            "lastAccept": 1499572857, 
+            "score": 419, 
+            "team": "0x90r00t", 
+            "country": "France", 
+            "twitter": "0x90r00t", 
+            "pos": 77, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499552540
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499431661
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499572857
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499553247, 
+            "score": 403, 
+            "team": "EPAD", 
+            "country": "Denmark", 
+            "twitter": "", 
+            "pos": 78, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499553247
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499442698
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499545943
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499455362
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499564152, 
+            "score": 403, 
+            "team": "TeamCC", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 79, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499564152
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499437846
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499444342
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499550156
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499567076, 
+            "score": 403, 
+            "team": "Team Haircut", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 80, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499489613
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499445289
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499567076
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499454977
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499535585, 
+            "score": 400, 
+            "team": "INSApwn", 
+            "country": "France, Metropolitan", 
+            "twitter": "", 
+            "pos": 81, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499475328
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499426749
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499452232
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499535585
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499542123, 
+            "score": 400, 
+            "team": "w0pr", 
+            "country": "Spain", 
+            "twitter": "", 
+            "pos": 82, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499537992
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499428300
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499542123
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499521190
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499520102, 
+            "score": 398, 
+            "team": "0x00sec", 
+            "country": "US Virgin Islands", 
+            "twitter": "", 
+            "pos": 83, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499441260
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499520102
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499555115, 
+            "score": 398, 
+            "team": "IRETF", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 84, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499555115
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499470027
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499533323
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499428837, 
+            "score": 397, 
+            "team": "BNS", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 85, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499428309
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499428837
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499556357, 
+            "score": 397, 
+            "team": "JHtC", 
+            "country": "Poland", 
+            "twitter": "", 
+            "pos": 86, 
+            "taskStats": {
+                "Lucky Consecutive Guessing": {
+                    "points": 301, 
+                    "time": 1499556357
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499445962
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499494068, 
+            "score": 395, 
+            "team": "0rcas", 
+            "country": "Zimbabwe", 
+            "twitter": "", 
+            "pos": 87, 
+            "taskStats": {
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499494068
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499494050
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499550410, 
+            "score": 386, 
+            "team": "aaaaa", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 88, 
+            "taskStats": {
+                "file proxy": {
+                    "points": 269, 
+                    "time": 1499550410
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499469024
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499536630, 
+            "score": 379, 
+            "team": "GSO", 
+            "country": "France", 
+            "twitter": "", 
+            "pos": 89, 
+            "taskStats": {
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499536630
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499541494, 
+            "score": 379, 
+            "team": "ayy", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 90, 
+            "taskStats": {
+                "Open Sesame": {
+                    "points": 379, 
+                    "time": 1499541494
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499467501, 
+            "score": 370, 
+            "team": "0x00C0FFEE", 
+            "country": "United Kingdom", 
+            "twitter": "", 
+            "pos": 91, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499467501
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499451735
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499455302
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499585443, 
+            "score": 370, 
+            "team": "FireTruck", 
+            "country": "Singapore", 
+            "twitter": "", 
+            "pos": 92, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499578419
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499482032
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499585443
+                }
+            }
+        }, 
+        {
+            "website": "https://github.com/beers4flags", 
+            "lastAccept": 1499435095, 
+            "score": 311, 
+            "team": "Beers4Flags", 
+            "country": "France", 
+            "twitter": "", 
+            "pos": 93, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499419301
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499435095
+                }
+            }
+        }, 
+        {
+            "website": "https://p-te.fr/", 
+            "lastAccept": 1499459713, 
+            "score": 311, 
+            "team": "P_TE", 
+            "country": "France", 
+            "twitter": "", 
+            "pos": 94, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499459713
+                }, 
+                "Polishop": {
+                    "points": 278, 
+                    "time": 1499444378
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499552800, 
+            "score": 304, 
+            "team": "YoungPwnawans", 
+            "country": "Croatia", 
+            "twitter": "", 
+            "pos": 95, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499552800
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499429517
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499513662
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499558253, 
+            "score": 304, 
+            "team": "sw1ss", 
+            "country": "Switzerland", 
+            "twitter": "", 
+            "pos": 96, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499504745
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499419586
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499558253
+                }
+            }
+        }, 
+        {
+            "website": "http://conoscerelinux.org/", 
+            "lastAccept": 1499539900, 
+            "score": 283, 
+            "team": "Hackteam LUG MO", 
+            "country": "Italy", 
+            "twitter": "nervaccio", 
+            "pos": 97, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499525524
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499510320
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499539900
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499462921, 
+            "score": 274, 
+            "team": "los_wombats", 
+            "country": "Israel", 
+            "twitter": "", 
+            "pos": 98, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499462921
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499439953
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499544408, 
+            "score": 274, 
+            "team": "dankSquad", 
+            "country": "Canada", 
+            "twitter": "", 
+            "pos": 99, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499478188
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499544408
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499571557, 
+            "score": 271, 
+            "team": "AoToI", 
+            "country": "Taiwan", 
+            "twitter": "", 
+            "pos": 100, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499571557
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499510317
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499573238, 
+            "score": 250, 
+            "team": "Cambridge2", 
+            "country": "United Kingdom", 
+            "twitter": "", 
+            "pos": 101, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499573238
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499490412
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499485071, 
+            "score": 249, 
+            "team": "jaykaymay", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 102, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499431114
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499485071
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499470684
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499517742, 
+            "score": 246, 
+            "team": "400-pound Hackers", 
+            "country": "Hong Kong", 
+            "twitter": "", 
+            "pos": 103, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499517742
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499515402
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499491529
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499520628, 
+            "score": 246, 
+            "team": "318br", 
+            "country": "Brazil", 
+            "twitter": "", 
+            "pos": 104, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499446091
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499472358
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499520628
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499536449, 
+            "score": 246, 
+            "team": "0x34044", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 105, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499450279
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499454182
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499536449
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499548272, 
+            "score": 246, 
+            "team": "alicio", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 106, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499533932
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499532599
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499548272
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499562652, 
+            "score": 246, 
+            "team": "onotch", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 107, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499449661
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499487650
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499562652
+                }
+            }
+        }, 
+        {
+            "website": "https://pentahex-ctf.github.io", 
+            "lastAccept": 1499563099, 
+            "score": 246, 
+            "team": "PentaHex", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 108, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499444519
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499542489
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499563099
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499586133, 
+            "score": 246, 
+            "team": "urchin", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 109, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499443477
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499441257
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499586133
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499590347, 
+            "score": 246, 
+            "team": "hexoteam", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 110, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499567580
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499590347
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499564256
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499454889, 
+            "score": 237, 
+            "team": "Balsn", 
+            "country": "Taiwan", 
+            "twitter": "", 
+            "pos": 111, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499443280
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499454889
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499515725, 
+            "score": 237, 
+            "team": "Notateam", 
+            "country": "Germany", 
+            "twitter": "", 
+            "pos": 112, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499482448
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499515725
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499560579, 
+            "score": 237, 
+            "team": "pwndevils", 
+            "country": "United States", 
+            "twitter": "pwndevils", 
+            "pos": 113, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499560579
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499544857
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499584968, 
+            "score": 216, 
+            "team": "NIS", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 114, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499584968
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499580283
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499513047, 
+            "score": 213, 
+            "team": "SeulAParis", 
+            "country": "France", 
+            "twitter": "", 
+            "pos": 115, 
+            "taskStats": {
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499513047
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499467638
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499513523, 
+            "score": 213, 
+            "team": "cad", 
+            "country": "Germany", 
+            "twitter": "", 
+            "pos": 116, 
+            "taskStats": {
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499430799
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499513523
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499505871, 
+            "score": 187, 
+            "team": "goatplt", 
+            "country": "France", 
+            "twitter": "", 
+            "pos": 117, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499505871
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499453970
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499530950, 
+            "score": 187, 
+            "team": "NoMansRoot", 
+            "country": "Poland", 
+            "twitter": "", 
+            "pos": 118, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499530950
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499441140
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499545306, 
+            "score": 187, 
+            "team": "FireShell", 
+            "country": "Brazil", 
+            "twitter": "", 
+            "pos": 119, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499545306
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499446333
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499589887, 
+            "score": 187, 
+            "team": "soko", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 120, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499537321
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499589887
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499519708, 
+            "score": 154, 
+            "team": "hun43r", 
+            "country": "India", 
+            "twitter": "", 
+            "pos": 121, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499519708
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499521292, 
+            "score": 154, 
+            "team": "Devhat", 
+            "country": "Netherlands", 
+            "twitter": "", 
+            "pos": 122, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499521292
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499551446, 
+            "score": 154, 
+            "team": "huso555", 
+            "country": "Iraq", 
+            "twitter": "", 
+            "pos": 123, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499551446
+                }
+            }
+        }, 
+        {
+            "website": "https://ctftime.org/team/35287", 
+            "lastAccept": 1499559709, 
+            "score": 154, 
+            "team": "WAFU", 
+            "country": "France", 
+            "twitter": "", 
+            "pos": 124, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499559709
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499589175, 
+            "score": 154, 
+            "team": "hAIXer", 
+            "country": "Germany", 
+            "twitter": "", 
+            "pos": 125, 
+            "taskStats": {
+                "Tower": {
+                    "points": 154, 
+                    "time": 1499589175
+                }
+            }
+        }, 
+        {
+            "website": "http://sekoia.fr", 
+            "lastAccept": 1499429222, 
+            "score": 153, 
+            "team": "Sekoia", 
+            "country": "France, Metropolitan", 
+            "twitter": "", 
+            "pos": 126, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499423090
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499429222
+                }
+            }
+        }, 
+        {
+            "website": "http://upload2.inven.co.kr/upload/2016/05/04/bbs/i10418184914.jpg", 
+            "lastAccept": 1499443574, 
+            "score": 153, 
+            "team": "ttiyoung", 
+            "country": "South Korea", 
+            "twitter": "", 
+            "pos": 127, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499437450
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499443574
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499445744, 
+            "score": 153, 
+            "team": "0x617364", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 128, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499438187
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499445744
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499451530, 
+            "score": 153, 
+            "team": "cicada 3301", 
+            "country": "Israel", 
+            "twitter": "", 
+            "pos": 129, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499430695
+                }, 
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499451530
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499473920, 
+            "score": 153, 
+            "team": "ids-team", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 130, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499426987
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499473920
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499476473, 
+            "score": 153, 
+            "team": "fuffateam", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 131, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499425532
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499476473
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499478368, 
+            "score": 153, 
+            "team": "popcorn", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 132, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499477418
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499478368
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499501079, 
+            "score": 153, 
+            "team": "Sudo_root", 
+            "country": "Algeria", 
+            "twitter": "", 
+            "pos": 133, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499427986
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499501079
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499512980, 
+            "score": 153, 
+            "team": "WeAreScientists", 
+            "country": "Austria", 
+            "twitter": "", 
+            "pos": 134, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499432026
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499512980
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499536302, 
+            "score": 153, 
+            "team": "Unitato Squad", 
+            "country": "Romania", 
+            "twitter": "", 
+            "pos": 135, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499433825
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499536302
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499543092, 
+            "score": 153, 
+            "team": "team", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 136, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499479350
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499543092
+                }
+            }
+        }, 
+        {
+            "website": "https://w0y.at", 
+            "lastAccept": 1499558856, 
+            "score": 153, 
+            "team": "We_0wn_Y0u", 
+            "country": "Austria", 
+            "twitter": "We0wnY0u", 
+            "pos": 137, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499456325
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499558856
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499579763, 
+            "score": 153, 
+            "team": "RetinalDetachment", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 138, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499567375
+                }, 
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499579763
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499470648, 
+            "score": 150, 
+            "team": "GodSaveTheTzar", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 139, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499433766
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499470648
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499495433, 
+            "score": 150, 
+            "team": "4ga1n", 
+            "country": "China", 
+            "twitter": "", 
+            "pos": 140, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499442255
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499495433
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499525571, 
+            "score": 150, 
+            "team": "tiburci", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 141, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499441862
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499525571
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499538068, 
+            "score": 150, 
+            "team": "lost+found", 
+            "country": "Turkey", 
+            "twitter": "", 
+            "pos": 142, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499439732
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499538068
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499553358, 
+            "score": 150, 
+            "team": "pas0k", 
+            "country": "Cyprus", 
+            "twitter": "", 
+            "pos": 143, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499553358
+                }, 
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499537406
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499422097, 
+            "score": 129, 
+            "team": "Yozik", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 144, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499419684
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499422097
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499440674, 
+            "score": 129, 
+            "team": "team_pop_tart", 
+            "country": "Netherlands", 
+            "twitter": "", 
+            "pos": 145, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499428417
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499440674
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499441205, 
+            "score": 129, 
+            "team": "acaros", 
+            "country": "Portugal", 
+            "twitter": "", 
+            "pos": 146, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499426512
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499441205
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499447327, 
+            "score": 129, 
+            "team": "biubiubiu", 
+            "country": "China", 
+            "twitter": "", 
+            "pos": 147, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499423940
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499447327
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499450776, 
+            "score": 129, 
+            "team": "0xC4rp4T34m", 
+            "country": "Spain", 
+            "twitter": "", 
+            "pos": 148, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499433883
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499450776
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499474529, 
+            "score": 129, 
+            "team": "ISITDTU", 
+            "country": "Vietnam", 
+            "twitter": "", 
+            "pos": 149, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499424420
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499474529
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499475879, 
+            "score": 129, 
+            "team": "Wookies", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 150, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499436608
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499475879
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499518718, 
+            "score": 129, 
+            "team": "klaxon", 
+            "country": "Australia", 
+            "twitter": "", 
+            "pos": 151, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499506323
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499518718
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499521030, 
+            "score": 129, 
+            "team": "Ox002147", 
+            "country": "United Kingdom", 
+            "twitter": "", 
+            "pos": 152, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499521030
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499519246
+                }
+            }
+        }, 
+        {
+            "website": "https://register.polictf.it/", 
+            "lastAccept": 1499530284, 
+            "score": 129, 
+            "team": "B3bieSec", 
+            "country": "Vietnam", 
+            "twitter": "123456798", 
+            "pos": 153, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499424408
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499530284
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499536065, 
+            "score": 129, 
+            "team": "5 EXploiters", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 154, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499536065
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499460884
+                }
+            }
+        }, 
+        {
+            "website": "https://github.com/uhmgreyhats", 
+            "lastAccept": 1499549299, 
+            "score": 129, 
+            "team": "Grey Hats UHM", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 155, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499549299
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499547877
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499552359, 
+            "score": 129, 
+            "team": "trivial", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 156, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499552359
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499527419
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499588446, 
+            "score": 129, 
+            "team": "cyberchenllenger", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 157, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499527780
+                }, 
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499588446
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499425748, 
+            "score": 120, 
+            "team": "paper", 
+            "country": "Australia", 
+            "twitter": "", 
+            "pos": 158, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499425748
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499427470, 
+            "score": 120, 
+            "team": "Justlearnm0re", 
+            "country": "China", 
+            "twitter": "", 
+            "pos": 159, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499427470
+                }
+            }
+        }, 
+        {
+            "website": "http://khack40.info", 
+            "lastAccept": 1499428506, 
+            "score": 120, 
+            "team": "khack40", 
+            "country": "France", 
+            "twitter": "khack40", 
+            "pos": 160, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499428506
+                }
+            }
+        }, 
+        {
+            "website": "http://hacking.moe", 
+            "lastAccept": 1499449591, 
+            "score": 120, 
+            "team": "gentoo", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 161, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499449591
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499455413, 
+            "score": 120, 
+            "team": "m0p3d", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 162, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499455413
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499475650, 
+            "score": 120, 
+            "team": "khepri", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 163, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499475650
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499504505, 
+            "score": 120, 
+            "team": "dalzo", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 164, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499504505
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499527147, 
+            "score": 120, 
+            "team": "dodododo", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 165, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499527147
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499535928, 
+            "score": 120, 
+            "team": "IABH", 
+            "country": "South Korea", 
+            "twitter": "", 
+            "pos": 166, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499535928
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499538662, 
+            "score": 120, 
+            "team": "nandayo", 
+            "country": "Australia", 
+            "twitter": "", 
+            "pos": 167, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499538662
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499545501, 
+            "score": 120, 
+            "team": "zzoru", 
+            "country": "South Korea", 
+            "twitter": "", 
+            "pos": 168, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499545501
+                }
+            }
+        }, 
+        {
+            "website": "http://ufsit.org", 
+            "lastAccept": 1499548130, 
+            "score": 120, 
+            "team": "Kernel Sanders", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 169, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499548130
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499553319, 
+            "score": 120, 
+            "team": "DreamSec", 
+            "country": "Ukraine", 
+            "twitter": "", 
+            "pos": 170, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499553319
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499570240, 
+            "score": 120, 
+            "team": "noTeamName", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 171, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499570240
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499572538, 
+            "score": 120, 
+            "team": "DFCI", 
+            "country": "Indonesia", 
+            "twitter": "", 
+            "pos": 172, 
+            "taskStats": {
+                "Status Box": {
+                    "points": 120, 
+                    "time": 1499572538
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499466088, 
+            "score": 117, 
+            "team": "Buford_Yehix", 
+            "country": "Netherlands", 
+            "twitter": "", 
+            "pos": 173, 
+            "taskStats": {
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499466088
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499512706, 
+            "score": 117, 
+            "team": "ehackb", 
+            "country": "Belgium", 
+            "twitter": "", 
+            "pos": 174, 
+            "taskStats": {
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499512706
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499535972, 
+            "score": 117, 
+            "team": "applectf", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 175, 
+            "taskStats": {
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499535972
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499558096, 
+            "score": 117, 
+            "team": "underhill", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 176, 
+            "taskStats": {
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499558096
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499577661, 
+            "score": 117, 
+            "team": "CSI", 
+            "country": "Indonesia", 
+            "twitter": "", 
+            "pos": 177, 
+            "taskStats": {
+                "JSfuck": {
+                    "points": 117, 
+                    "time": 1499577661
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499428230, 
+            "score": 96, 
+            "team": "david942j", 
+            "country": "Taiwan", 
+            "twitter": "", 
+            "pos": 178, 
+            "taskStats": {
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499428230
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499430613, 
+            "score": 96, 
+            "team": "GET_REKT", 
+            "country": "Algeria", 
+            "twitter": "", 
+            "pos": 179, 
+            "taskStats": {
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499430613
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499441535, 
+            "score": 96, 
+            "team": "jambon69", 
+            "country": "France", 
+            "twitter": "", 
+            "pos": 180, 
+            "taskStats": {
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499441535
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499446347, 
+            "score": 96, 
+            "team": "DDOS Attacks", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 181, 
+            "taskStats": {
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499446347
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499493224, 
+            "score": 96, 
+            "team": "yzj", 
+            "country": "China", 
+            "twitter": "", 
+            "pos": 182, 
+            "taskStats": {
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499493224
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499497177, 
+            "score": 96, 
+            "team": "9u7s0o", 
+            "country": "South Korea", 
+            "twitter": "", 
+            "pos": 183, 
+            "taskStats": {
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499497177
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499538273, 
+            "score": 96, 
+            "team": "d4rkc0de", 
+            "country": "India", 
+            "twitter": "", 
+            "pos": 184, 
+            "taskStats": {
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499538273
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499565467, 
+            "score": 96, 
+            "team": "BigTiger", 
+            "country": "China", 
+            "twitter": "", 
+            "pos": 185, 
+            "taskStats": {
+                "Splyt": {
+                    "points": 96, 
+                    "time": 1499565467
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499418876, 
+            "score": 33, 
+            "team": "Galaxians", 
+            "country": "Norway", 
+            "twitter": "", 
+            "pos": 186, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499418876
+                }
+            }
+        }, 
+        {
+            "website": "https://www.rootnetsec.com/", 
+            "lastAccept": 1499418888, 
+            "score": 33, 
+            "team": "Root Security", 
+            "country": "Poland", 
+            "twitter": "", 
+            "pos": 187, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499418888
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499419662, 
+            "score": 33, 
+            "team": "Meet_Your_Shellcode", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 188, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499419662
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499419910, 
+            "score": 33, 
+            "team": "cheYen", 
+            "country": "France", 
+            "twitter": "cheyenman", 
+            "pos": 189, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499419910
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499420317, 
+            "score": 33, 
+            "team": "SPARTA.ctf", 
+            "country": "Kazakhstan", 
+            "twitter": "", 
+            "pos": 190, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499420317
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499420431, 
+            "score": 33, 
+            "team": "HumBeerHainBC", 
+            "country": "India", 
+            "twitter": "", 
+            "pos": 191, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499420431
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499420525, 
+            "score": 33, 
+            "team": "Jaleito Guapo", 
+            "country": "Spain", 
+            "twitter": "", 
+            "pos": 192, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499420525
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499420880, 
+            "score": 33, 
+            "team": "3xfil-", 
+            "country": "Philippines", 
+            "twitter": "", 
+            "pos": 193, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499420880
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499423344, 
+            "score": 33, 
+            "team": "th_", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 194, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499423344
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499423463, 
+            "score": 33, 
+            "team": "KH-OMG", 
+            "country": "South Korea", 
+            "twitter": "", 
+            "pos": 195, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499423463
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499424826, 
+            "score": 33, 
+            "team": "f1ay", 
+            "country": "South Korea", 
+            "twitter": "yokkkkk", 
+            "pos": 196, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499424826
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499424993, 
+            "score": 33, 
+            "team": "0xFF", 
+            "country": "South Korea", 
+            "twitter": "", 
+            "pos": 197, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499424993
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499425127, 
+            "score": 33, 
+            "team": "SmartGlue", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 198, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499425127
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499425474, 
+            "score": 33, 
+            "team": "Bobiki_Sosnowiec", 
+            "country": "Poland", 
+            "twitter": "", 
+            "pos": 199, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499425474
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499427529, 
+            "score": 33, 
+            "team": "m1z0r3", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 200, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499427529
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499427941, 
+            "score": 33, 
+            "team": "Biggles", 
+            "country": "Portugal", 
+            "twitter": "", 
+            "pos": 201, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499427941
+                }
+            }
+        }, 
+        {
+            "website": "http://team-prime.fr", 
+            "lastAccept": 1499431289, 
+            "score": 33, 
+            "team": "_PRIME_", 
+            "country": "France", 
+            "twitter": "", 
+            "pos": 202, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499431289
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499431469, 
+            "score": 33, 
+            "team": "pinksheep", 
+            "country": "United Kingdom", 
+            "twitter": "", 
+            "pos": 203, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499431469
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499433593, 
+            "score": 33, 
+            "team": "CremaIsBoring", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 204, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499433593
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499435037, 
+            "score": 33, 
+            "team": "jcfg", 
+            "country": "Portugal", 
+            "twitter": "", 
+            "pos": 205, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499435037
+                }
+            }
+        }, 
+        {
+            "website": "http://afnom.net", 
+            "lastAccept": 1499436762, 
+            "score": 33, 
+            "team": "AFNOM", 
+            "country": "United Kingdom", 
+            "twitter": "", 
+            "pos": 206, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499436762
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499437257, 
+            "score": 33, 
+            "team": "WubbaLubba-dub-dub", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 207, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499437257
+                }
+            }
+        }, 
+        {
+            "website": "https://www.disaster.re", 
+            "lastAccept": 1499438275, 
+            "score": 33, 
+            "team": "Disaster", 
+            "country": "Belgium", 
+            "twitter": "", 
+            "pos": 208, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499438275
+                }
+            }
+        }, 
+        {
+            "website": "https://infosecpinas.tech/", 
+            "lastAccept": 1499439055, 
+            "score": 33, 
+            "team": "HydraSec", 
+            "country": "Philippines", 
+            "twitter": "@SyakNiLance", 
+            "pos": 209, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499439055
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499439403, 
+            "score": 33, 
+            "team": "HeaderEnrichment", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 210, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499439403
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499443849, 
+            "score": 33, 
+            "team": "spiderpig", 
+            "country": "Cuba", 
+            "twitter": "", 
+            "pos": 211, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499443849
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499446017, 
+            "score": 33, 
+            "team": "bolgia4", 
+            "country": "Canada", 
+            "twitter": "", 
+            "pos": 212, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499446017
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499446132, 
+            "score": 33, 
+            "team": "JohnDoe", 
+            "country": "Ukraine", 
+            "twitter": "", 
+            "pos": 213, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499446132
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499447645, 
+            "score": 33, 
+            "team": "TechSec", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 214, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499447645
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499448199, 
+            "score": 33, 
+            "team": "BE4HOXVII", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 215, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499448199
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499451038, 
+            "score": 33, 
+            "team": "Razvrat_Inc", 
+            "country": "United States", 
+            "twitter": "TylerStOnge", 
+            "pos": 216, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499451038
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499452581, 
+            "score": 33, 
+            "team": "\\xf0\\x9f\\x90\\xa7", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 217, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499452581
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499453960, 
+            "score": 33, 
+            "team": "wolf", 
+            "country": "Germany", 
+            "twitter": "", 
+            "pos": 218, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499453960
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499455590, 
+            "score": 33, 
+            "team": "LHS", 
+            "country": "United Kingdom", 
+            "twitter": "", 
+            "pos": 219, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499455590
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499456078, 
+            "score": 33, 
+            "team": "Nobody", 
+            "country": "France", 
+            "twitter": "", 
+            "pos": 220, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499456078
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499458201, 
+            "score": 33, 
+            "team": "Alpackers", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 221, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499458201
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499460988, 
+            "score": 33, 
+            "team": "kf03w5t5741l", 
+            "country": "United Kingdom", 
+            "twitter": "", 
+            "pos": 222, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499460988
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499461167, 
+            "score": 33, 
+            "team": "4815162342", 
+            "country": "Spain", 
+            "twitter": "", 
+            "pos": 223, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499461167
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499461814, 
+            "score": 33, 
+            "team": "4R13ND", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 224, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499461814
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499462665, 
+            "score": 33, 
+            "team": "DangerousWaffle", 
+            "country": "United Kingdom", 
+            "twitter": "", 
+            "pos": 225, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499462665
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499467045, 
+            "score": 33, 
+            "team": "___Q-----", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 226, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499467045
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499472236, 
+            "score": 33, 
+            "team": "dd_", 
+            "country": "Serbia", 
+            "twitter": "", 
+            "pos": 227, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499472236
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499472764, 
+            "score": 33, 
+            "team": "____", 
+            "country": "North Korea", 
+            "twitter": "", 
+            "pos": 228, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499472764
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499477587, 
+            "score": 33, 
+            "team": "freshSprite", 
+            "country": "South Korea", 
+            "twitter": "", 
+            "pos": 229, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499477587
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499481171, 
+            "score": 33, 
+            "team": "0xFFFF", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 230, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499481171
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499486087, 
+            "score": 33, 
+            "team": "EKANS", 
+            "country": "Taiwan", 
+            "twitter": "", 
+            "pos": 231, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499486087
+                }
+            }
+        }, 
+        {
+            "website": "http://randomest.blogspot.com/", 
+            "lastAccept": 1499488510, 
+            "score": 33, 
+            "team": "Misteriosos", 
+            "country": "United States", 
+            "twitter": "malumz", 
+            "pos": 232, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499488510
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499493648, 
+            "score": 33, 
+            "team": "Aean", 
+            "country": "Australia", 
+            "twitter": "", 
+            "pos": 233, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499493648
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499493749, 
+            "score": 33, 
+            "team": "notk17", 
+            "country": "Australia", 
+            "twitter": "", 
+            "pos": 234, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499493749
+                }
+            }
+        }, 
+        {
+            "website": "https://ctftime.org/team/33909", 
+            "lastAccept": 1499493783, 
+            "score": 33, 
+            "team": "n4rv4l0", 
+            "country": "France", 
+            "twitter": "Ne0LuxC1Ph3r", 
+            "pos": 235, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499493783
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499493895, 
+            "score": 33, 
+            "team": "DC416", 
+            "country": "Canada", 
+            "twitter": "", 
+            "pos": 236, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499493895
+                }
+            }
+        }, 
+        {
+            "website": "https://sstctf.org", 
+            "lastAccept": 1499495278, 
+            "score": 33, 
+            "team": "SST CTF", 
+            "country": "United States", 
+            "twitter": "", 
+            "pos": 237, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499495278
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499505505, 
+            "score": 33, 
+            "team": "KernelPanic", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 238, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499505505
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499508405, 
+            "score": 33, 
+            "team": "Team Shield", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 239, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499508405
+                }
+            }
+        }, 
+        {
+            "website": "https://www.hackthissite.org", 
+            "lastAccept": 1499512679, 
+            "score": 33, 
+            "team": "HackThisSite", 
+            "country": "Croatia", 
+            "twitter": "@hackthissite", 
+            "pos": 240, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499512679
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499520940, 
+            "score": 33, 
+            "team": "FaithfulEchoPhoenix", 
+            "country": "Indonesia", 
+            "twitter": "", 
+            "pos": 241, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499520940
+                }
+            }
+        }, 
+        {
+            "website": "http://alanlei.blogspot.hk/", 
+            "lastAccept": 1499523673, 
+            "score": 33, 
+            "team": "alanlei", 
+            "country": "Hong Kong", 
+            "twitter": "", 
+            "pos": 242, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499523673
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499526752, 
+            "score": 33, 
+            "team": "GhiMax", 
+            "country": "Italy", 
+            "twitter": "", 
+            "pos": 243, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499526752
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499528814, 
+            "score": 33, 
+            "team": "jamanama", 
+            "country": "Finland", 
+            "twitter": "", 
+            "pos": 244, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499528814
+                }
+            }
+        }, 
+        {
+            "website": "http://ratf.com.br/", 
+            "lastAccept": 1499530051, 
+            "score": 33, 
+            "team": "RATF", 
+            "country": "Brazil", 
+            "twitter": "", 
+            "pos": 245, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499530051
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499536717, 
+            "score": 33, 
+            "team": "r3born", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 246, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499536717
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499546142, 
+            "score": 33, 
+            "team": "LostPointer", 
+            "country": "Albania", 
+            "twitter": "", 
+            "pos": 247, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499546142
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499549062, 
+            "score": 33, 
+            "team": "badfirmware", 
+            "country": "Faeroe Islands", 
+            "twitter": "", 
+            "pos": 248, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499549062
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499553716, 
+            "score": 33, 
+            "team": "c00kiez", 
+            "country": "Russia", 
+            "twitter": "", 
+            "pos": 249, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499553716
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499580363, 
+            "score": 33, 
+            "team": "PONPON", 
+            "country": "Japan", 
+            "twitter": "", 
+            "pos": 250, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499580363
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499584448, 
+            "score": 33, 
+            "team": "singapwn", 
+            "country": "Singapore", 
+            "twitter": "", 
+            "pos": 251, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499584448
+                }
+            }
+        }, 
+        {
+            "website": "", 
+            "lastAccept": 1499590155, 
+            "score": 33, 
+            "team": "Samsung R&D PL ", 
+            "country": "Poland", 
+            "twitter": "", 
+            "pos": 252, 
+            "taskStats": {
+                "Rock Solid Cryptography": {
+                    "points": 33, 
+                    "time": 1499590155
+                }
+            }
+        }
+    ], 
+    "tasks": [
+        "Splyt", 
+        "Rock Solid Cryptography", 
+        "Back to the Exploit", 
+        "Super-secure custom One Time Pad!", 
+        "Lucky Consecutive Guessing", 
+        "Synesthesia", 
+        "Stegocat", 
+        "Open Sesame", 
+        "Ham", 
+        "PoliWars", 
+        "Pong (lvl 1)", 
+        "Pong (lvl 2)", 
+        "Lamermi", 
+        "Status Box", 
+        "echo fail", 
+        "finally we met", 
+        "guessthenumber", 
+        "EzWinShell", 
+        "JSfuck", 
+        "Polishop", 
+        "y-turtle", 
+        "file proxy", 
+        "Tower", 
+        "HanoiPub", 
+        "Mail Downloader", 
+        "Powder Toy CPU", 
+        "Kompreplicants", 
+        "Pasticciotto", 
+        "Pyzzeria"
+    ]
+}
