@@ -44,7 +44,6 @@
             {% for p in pages %}
                 <li {% if page.url == p.url %}class="active"{%endif%}><a href="{{ p.url | relative_url }}">{{p.title}}</a></li>
             {% endfor %}
-            <li><a href="https://scoreboard.polictf.it/">Play</a></li>
             <li class="no-before"><a href="https://twitter.com/towerofhanoi" target="_blank"><span class="fa fa-twitter"></span></a></li>
             <li class="no-before"><a href="mailto:info@polictf.it"><span class="fa fa-envelope"></span></a></li>
           </ul>
