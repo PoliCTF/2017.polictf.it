@@ -23,13 +23,13 @@ menu: false
 
 <p>A new cyber-artistic collective had fun experimenting with metaprogramming and domain specific languages. Here thre is a first, broken, implementation of a Turtle graphic engine.</p><p><a href="http://yturtle.chall.polictf.it">http://yturtle.chall.polictf.it</a></p>
 
-<b>Server-side sources and exploit script:</b> [polishop-sources.zip](/files/y-turtle-sources.zip) (sources NOT disclosed to the players!)
+<b>Server-side sources and exploit script:</b> [y-turtle-sources.zip](/files/y-turtle-sources.zip) (sources NOT disclosed to the players!)
 
 ### file proxy [269 points, 39 solves]
 
 <p>Our Sysadmin made a simple file proxy to load HTTP resources.</p><p><a href="http://fileproxy.chall.polictf.it/">http://fileproxy.chall.polictf.it</a></p>
 
-<b>Server-side sources and exploit script:</b> [polishop-sources.zip](/files/file-proxy-sources.zip) (sources NOT disclosed to the players!)
+<b>Server-side sources and exploit script:</b> [file-proxy-sources.zip](/files/file-proxy-sources.zip) (sources NOT disclosed to the players!)
 
 ### Tower [154 points, 74 solves]
 
