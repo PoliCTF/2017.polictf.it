@@ -20,7 +20,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 polictf: <span class="logo-poli">poli</span><span class="logo-ctf">ctf</span>
 
 navigation:
-    pages: ['/instructions', '/archive']
+    pages: ['/instructions', '/archive', '/challenges']
 
 contacts:
     - icon: twitter
